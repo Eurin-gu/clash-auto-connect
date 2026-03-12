@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Clash Auto Connect
+Exec=/home/ubuntu22/clashctl-manager.sh auto
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Exec=bash -c "sleep 10 && /home/ubuntu22/clashctl-manager.sh auto"
