@@ -1,0 +1,4 @@
+# Clash 密钥配置示例
+# 将此文件重命名为 ~/.clash_secret 并填入你的实际密钥
+
+CLASH_SECRET="你的实际密钥在这里"
